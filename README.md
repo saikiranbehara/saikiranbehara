@@ -9,4 +9,4 @@ Raghu Ins tute of Technology
  
 SKILLS 
 Technical: SQL, Java, Jdbc,Data structure’s and algorithm’s, Object oriented programming.  
-Tools: Git&Github,Netbeans,Eclipse IDE. 
+Tools: Git&Github,Netbeans,Eclipse IDE and marvan. 
