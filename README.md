@@ -142,6 +142,6 @@ SQL — GeeksforGeeks
 
   </table>
 
-  <img width="100%" src="https://streak-stats.demolab.com?user=saikiranbehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=saikiranbehara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
