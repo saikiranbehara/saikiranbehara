@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
 
 ### 👨‍💻 About Me
 
