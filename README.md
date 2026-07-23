@@ -19,7 +19,7 @@
 * 💻 Building a strong foundation in **Java, Data Structures & Algorithms, OOP, SQL/MySQL, and JDBC**.
 * 🔭 Built an **Online Quiz Application** using Java Servlets, JDBC, and MVC architecture.
 * 🌱 Currently improving my problem-solving skills through regular practice on LeetCode and GeeksforGeeks.
-* 🤝 Open to collaborating on Java backend projects and DSA problem-solving and data base.
+* 🤝 Open to collaborating on Java backend projects and DSA problem-solving.
 * 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/behara-saikiran/).
 * 📄 Check my coding progress on [GitHub](https://github.com/saikiranbehara).
 
