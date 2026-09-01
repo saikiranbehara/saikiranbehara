@@ -73,8 +73,7 @@ Object-Oriented Programming concepts used in Java were influenced by Simula, a p
         <img src="https://skillicons.dev/icons?i=java,html,css&perline=3&theme=dark" alt="Java HTML CSS" />
       </td>
     </tr>
-
-```
+``
 <tr>
   <td align="center" width="140"><b>Database</b></td>
   <td>
