@@ -129,7 +129,7 @@ SQL — GeeksforGeeks
   <table>
     <tr>
       <td align="center">
-        <img height="181" src="https://github-readme-stats-lemon-two-19.vercel.app/api?username=saikiranbehara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sai Kiran's GitHub Stats" />
+        <img height="181" src="https://github.com/anuraghazra/github-readme-stats.git/api?username=saikiranbehara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sai Kiran's GitHub Stats" />
       </td>
 
 ...
