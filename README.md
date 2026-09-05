@@ -132,7 +132,7 @@ SQL — GeeksforGeeks
         <img height="181" src="https://github-readme-stats-lemon-two-19.vercel.app/api?username=saikiranbehara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sai Kiran's GitHub Stats" />
       </td>
 
-```
+...
   <td align="center">
     <img height="170" src="https://github-readme-stats-lemon-two-19.vercel.app/api/top-langs/?username=saikiranbehara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </td>
