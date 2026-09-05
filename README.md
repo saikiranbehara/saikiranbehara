@@ -28,7 +28,7 @@
 Object-Oriented Programming concepts used in Java were influenced by Simula, a programming language created in the 1960s.
 </details>
 
-```
+``
 </td>
 
 <td valign="top" width="40%">
