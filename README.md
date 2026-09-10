@@ -31,8 +31,8 @@ Object-Oriented Programming concepts used in Java were influenced by Simula, a p
 ``
 </td>
 
-<td valign="top" width="40%">
-  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<td valign="top" width="50%">
+  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRvY3R0dmthaWFnNDllYnVpZ2Z5YjB4NmUya3U4b2dwbHRpZHJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" />
 </td>
 ```
 
