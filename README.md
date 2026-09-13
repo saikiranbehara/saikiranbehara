@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 B.Tech in Computer Science and Engineering at Raghu Institute of Technology (2022–2026).
-* 💻 Building a strong foundation in **Java, Data Structures & Algorithms, OOP, SQL/MySQL, and JDBC**.
+* 💻 Building a strong foundation in **Java, Data Structures & Algorithms, OOP, SQL/MySQL, and JDBC** ,HTML,CSS.
 * 🔭 Built an **Online Quiz Application** using Java Servlets, JDBC, and MVC architecture.
 * 🌱 Currently improving my problem-solving skills through regular practice on LeetCode and GeeksforGeeks.
 * 🤝 Open to collaborating on Java backend projects and DSA problem-solving.
