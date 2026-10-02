@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1> I'm <mark>Behara Sai Kiran</mark> </h1>
-  <h3>Computer Science student building efficient and scalable software with Java, DSA, and SQL.</h3>
+  <h2>Computer Science student building efficient and scalable software with Java, DSA, and SQL.</h2>
 </div>
 
 ---
