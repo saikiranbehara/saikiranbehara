@@ -106,7 +106,7 @@ A full-stack quiz application that delivers dynamic questions and evaluates scor
 
 ### 📚 Library Management System
 
-A console-based Java application to add, search, issue, and return books with input validation and file-based data storage.
+<p style=color=red>A console-based Java application to add, search, issue, and return books with input validation and file-based data storage.</p>
 
 `Java` `OOP` `File Handling` `ArrayList`
 
