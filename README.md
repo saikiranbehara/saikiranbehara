@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1> I'm <strike>Behara Sai Kiran</strike> </h1>
+  <h1> I'm Behara Sai Kiran</h1>
   <h2>Computer Science student building efficient and scalable software with Java, DSA, and SQL.</h2>
 </div>
 
