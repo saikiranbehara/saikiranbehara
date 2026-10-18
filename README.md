@@ -98,19 +98,6 @@ Object-Oriented Programming concepts used in Java were influenced by Simula, a p
   <h3>🚀 Featured Projects</h3>
 </div>
 
-### 📝 Online Quiz Application
-
-A full-stack quiz application that delivers dynamic questions and evaluates scores in real time using server-side validation and MVC architecture.
-
-`Java` `Servlets` `JDBC` `SQLite` `HTML` `CSS` `JavaScript` `MVC`
-
-### 📚 Library Management System
-
-<p style=color=red>A console-based Java application to add, search, issue, and return books with input validation and file-based data storage.</p>
-
-`Java` `OOP` `File Handling` `ArrayList`
-
----
 
 <div align="center">
   <h3>📜 Certifications</h3>
