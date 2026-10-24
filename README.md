@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-Motivated **Computer Science and Engineering graduate** from **Raghu Institute of Technology** (Class of 2026, ranked in the **Top 5%** of the class) with a solid foundation in **Java Full Stack Development**.
+Motivated **Computer Science and Engineering graduate** from **Raghu Institute of Technology** (Class of 2026) with a solid foundation in **Java Full Stack Development**.
 
 - 🔭 **Current Focus:** Building scalable enterprise backend systems with **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**, integrated with responsive web interfaces using **React and Vite**.
 - 💼 **Experience:** Former **Java Developer Intern** at **Genz Educate Wing**, where I built a full-stack MVC Online Quiz Application, optimized JDBC modules to reduce redundant code by 35%, and solved 50+ DSA problems.
