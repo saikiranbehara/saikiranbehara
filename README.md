@@ -5,6 +5,7 @@
   <a href="https://github.com/saikiranbehara">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL+%7C+Hibernate;React+%7C+Vite+%7C+Modern+Frontend;B.Tech+CSE+Graduate+(2022-2026)" alt="Typing SVG" />
   </a>
+  
 
   <p>
     <a href="https://www.linkedin.com/in/behara-saikiran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
