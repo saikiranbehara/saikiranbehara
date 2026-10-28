@@ -176,7 +176,7 @@ Motivated **Computer Science and Engineering graduate** from **Raghu Institute o
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 <h>Connect With Me<\h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/behara-saikiran" target="_blank">
